@@ -1,0 +1,12 @@
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,form,input,textarea,p{
+  padding:0;
+  margin:0;
+  list-style:none;
+}
+a{
+  color:#333;
+  text-decoration:none;
+}
+img{
+border:none;
+}
